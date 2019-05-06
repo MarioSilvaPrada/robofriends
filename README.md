@@ -1,6 +1,6 @@
 #RoboFriends
 
-##🤖 Meet all Robot Friends 🤖
+## Meet all Robot Friends 🤖
 
 Tecs used:
 - React
